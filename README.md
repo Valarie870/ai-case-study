@@ -45,11 +45,11 @@ Core metrics will vary in the digital media area depending on if you are develop
 
 ## Recommendations
 
-Adobe may want to consider improving their customer service and product support areas as it can be difficult to get a response when you have an issue with a tool or run into a problem. They have a community of users known as Experience League which is similar to Reddit, where you can ask questions of other Adobe users in a community forum. However, it can be challenging to search and get an answer specific to your issue. 
+Adobe may want to consider improving their customer service and product support areas as it can be difficult to get a response when you have an issue with a tool or run into a problem. They have a community of users known as Experience League [17] which is similar to Reddit [18], where you can ask questions of other Adobe users in a community forum. However, it can be challenging to search and get an answer specific to your issue. 
 
 Adobe is already offering the ability to create and manipulate images and now will be extending the ability to create videos from text, equipping people with more tools in their creative arsenal. Since AI is ever increasing, it would benefit Adobe to step up research in this area and look at how AI can be further leveraged when it comes to developing audiences and customer journeys to make it easier for people who may not be familiar with how Adobe tools work. 
 
-Additionally, Adobe recently developed a pricing structure that is more within reach for small businesses, but could still be difficult to pursue depending on the size of the business. However, since small businesses account for 46.4% of employees in the private sector [17], Adobe may want to consider developing products more suited for small businesses as a way to add more revenue. Creating these products may not require a heavy lift as they could be built upon AI and other technologies that Adobe is already using including SQL/Postgre, which is used in machine learning. This could be helpful to help small businesses make better use of their marketing dollars by targeting customers with the highest spend potential. 
+Additionally, Adobe recently developed a pricing structure that is more within reach for small businesses, but could still be difficult to pursue depending on the size of the business. However, since small businesses account for 46.4% of employees in the private sector [19], Adobe may want to consider developing products more suited for small businesses as a way to add more revenue. Creating these products may not require a heavy lift as they could be built upon AI and other technologies that Adobe is already using including SQL/Postgre, which is used in machine learning. This could be helpful to help small businesses make better use of their marketing dollars by targeting customers with the highest spend potential. 
 
 In conclusion, Adobe is a great example of a company that didn’t stop learning and saw how it could grow by acquiring companies with specialized tech offerings to make its products stronger. 
 
@@ -69,5 +69,7 @@ In conclusion, Adobe is a great example of a company that didn’t stop learning
 14.	 Microsoft Source, “Adobe and Microsoft Partner to Bring New Generative AI Capabilities to Marketers as They Work in Microsoft 365 Applications,” March 26, 2024, Microsoft. https://news.microsoft.com/2024/03/26/adobe-and-microsoft-partner-to-bring-new-generative-ai-capabilities-to-marketers-as-they-work-in-microsoft-365-applications/
 15.	About Adobe, Adobe.com. https://www.adobe.com/about-adobe.html
 16.	Adobe Experience Cloud, Adobe.com. https://business.adobe.com/resources/reports/gartner-mq-digital-experience-platforms-2024.html#:~:text=Adobe%20is%20proud%20to%20once,for%20the%20past%20seven%20years.
-17.	Office of Advocacy, “Frequently Asked Questions About Small Business, 2023,” March 7, 2023, SBA.gov. https://advocacy.sba.gov/2023/03/07/frequently-asked-questions-about-small-business-2023/
+17.	Adobe Experience League, Experienceleague.adobe.com https://experienceleague.adobe.com/
+18.	Reddit, Reddit.com https://www.reddit.com/
+19.	Office of Advocacy, “Frequently Asked Questions About Small Business, 2023,” March 7, 2023, SBA.gov. https://advocacy.sba.gov/2023/03/07/frequently-asked-questions-about-small-business-2023/
 
